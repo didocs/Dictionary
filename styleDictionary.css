@@ -1,0 +1,19 @@
+* {
+    font-family: sans-serif;
+}
+
+.input {
+    width: 30%;
+    padding: 6px 8px;
+    margin: 10px 6px 15px 20px;
+    color: grey;
+    border-color: lightgray;
+    background-color: rgb(215, 252, 147);
+    box-sizing: border-box;
+    border: 1px solid gray;
+    border-radius: 7px;
+}
+
+.card {
+    background: rgba(233, 240, 253, 0.965);
+}
